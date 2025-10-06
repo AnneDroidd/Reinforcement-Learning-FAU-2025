@@ -1,0 +1,5 @@
+numpy==1.26
+gymnasium==0.29
+matplotlib==3.8
+torch==2.7.0
+torchvision==0.22.0
